@@ -51,5 +51,5 @@
 
 ### 📊 GitHub İstatistiklerim  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kocsevval&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kocsevval&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sevvalkoc64&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sevvalkoc64&layout=compact&theme=radical)  
